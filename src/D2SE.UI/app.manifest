@@ -16,7 +16,11 @@
             Remove this element if your application requires this virtualization for backwards
             compatibility.
         -->
+<<<<<<< HEAD
         <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+=======
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+>>>>>>> 3f16b22 (added app manifest to enforce admin priviledges.)
       </requestedPrivileges>
       
       <applicationRequestMinimum>

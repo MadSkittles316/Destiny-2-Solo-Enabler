@@ -7,8 +7,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+<<<<<<< HEAD
     <ApplicationIcon>Resources\Images\d2soloenabler_icon.ico</ApplicationIcon>
     <AssemblyName>Destiny 2 Solo-Enabler</AssemblyName>
+=======
+>>>>>>> 3f16b22 (added app manifest to enforce admin priviledges.)
   </PropertyGroup>
 
   <ItemGroup>
